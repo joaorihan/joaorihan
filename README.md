@@ -25,5 +25,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_rihan/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaorihan&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&count_private=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaorihan&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorihan&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=joaorihan&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
