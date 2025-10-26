@@ -1,11 +1,10 @@
-## Sobre Mim
+## About me
 
-  <b>🎓 Estudante de Engenharia de Software na FIAP</b><br>
-  <b>🌱 Atualmente, focando em desenvolver minhas habilidades em Java e Python</b><br>
-  <b>🔭 Em meu tempo livre, costumo desenvolver Plugins em Java para jogos online!</b><br>
-  <b>💻 Tecnologias mais utilizadas: Java, Python, JavaScript & SQL</b><br>
+  <b>🎓 Software Engineering undergraduate</b><br>
+  <b>🌱 Currently working as a Software Engineer Intern @ [PPRO](https://www.ppro.com)</b><br>
+  <b>🔭 Exploring the world of Java, SpringBoot and k8s</b><br>
 
-## Conhecimentos
+## Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,6 +19,5 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Conecte-se comigo
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-antonio-rihan-714827264/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_rihan/)
