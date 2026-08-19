@@ -1,7 +1,7 @@
 ## About me
 
   <b>🎓 Software Engineering undergraduate</b><br>
-  <b>🌱 Currently working as a Software Engineer Intern @ [PPRO](https://www.ppro.com)</b><br>
+  <b>🌱 Currently working as a Software Engineer @ [PPRO](https://www.ppro.com)</b><br>
   <b>🔭 Exploring the world of Java, SpringBoot and k8s</b><br>
 
 ## Technologies
